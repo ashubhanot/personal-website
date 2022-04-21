@@ -12,11 +12,19 @@ body {
 }
 
 table {
-    margin-left: 3%;
-    margin-right: 3%;
+    display: flexbox;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    overflow-x: auto;
 }
 
+
 h3 {
+    text-decoration: underline;
+}
+
+b {
     text-decoration: underline;
 }
 
